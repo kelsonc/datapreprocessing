@@ -5,8 +5,16 @@ Below, the subtitles of the files referring to the complementary materials on th
 
 File: 1_fig_non-normal_distribution_techniques.jpg
 
-The figure (1_fig_non-normal_distribution_techniques.jpg) shows the non-normal distribution of the sample data for the data pre-processing techniques. The non-normal distribution justifies the execution of non-parametric statistical tests in the investigation. Non-parametric tests are applied when there is no normal distribution between sample data.
+The figure (1_fig_non-normal_distribution_techniques.jpg) shows the non-normal distribution of the sample data for the data preprocessing techniques. The non-normal distribution justifies the execution of non-parametric statistical tests in the investigation. Non-parametric tests are applied when there is no normal distribution between sample data.
 
-File: 2_fig_non-normal_distribution_techniques.jpg
+File: 2_fig_non-normal_distribution_algorithms.jpg
 
 The figure (2_fig_non-normal_distribution_algorithms.jpg) shows the non-normal distribution of the sample data concerning the classification algorithms.
+
+File: 3_appendices_comparisons_techniques_nemenyi_test.pdf
+
+The file (3_appendices_comparisons_techniques_nemenyi_test.pdf) shows in detail the comparisons between the groups of data preprocessing techniques in the binary class models, multiclass models for specific attacks of Group 1, containing Reconnaissance attacks (UNSW-NB15) and attacks PortScan (CIC-IDS2017), and multiclass models for specific Group 2 attacks, containing DoS attacks (UNSW-NB15) and DoS/DDoS attacks (CIC-IDS2017).
+
+File: 4_appendices_comparisons_algorithms_nemenyi_test.pdf
+
+The file (4_appendices_comparisons_algorithms_nemenyi_test.pdf) shows in detail the comparisons between the classification algorithms using data preprocessing techniques in binary class models, multiclass models for Group 1 specific attacks, containing Reconnaissance attacks (UNSW-NB15) and PortScan attacks (CIC-IDS2017) and multiclass models for specific Group 2 attacks, containing DoS attacks (UNSW-NB15) and DoS/DDoS attacks (CIC-IDS2017).
