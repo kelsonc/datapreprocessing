@@ -49,3 +49,11 @@ The file (6_descriptive_statistics_algorithms.pdf) shows descriptive statistics 
 - Median: the sample value of the median of the rows.
 - Q3: the sample value of the third quartile of the rows.
 - Max: the maximum sample value of the rows.
+
+### File: 7_boxplot_sample_results_techniques.jpg
+
+The figure (7_boxplot_sample_results_techniques.jpg) shows the boxplot of sample results of data preprocessing techniques in binary class models, multiclass models for Group 1 specific attacks, containing reconnaissance attacks (UNSW-NB15) and PortScan attacks (CIC -IDS2017) and multiclass templates for specific Group 2 attacks, containing DoS attacks (UNSW-NB15) and DoS/DDoS attacks (CIC-IDS2017).
+
+### File: 8_boxplot_sample_results_algorithms.jpg
+
+The figure (8_boxplot_sample_results_algorithms.jpg) shows the boxplot of sample results of classification algorithms using data preprocessing techniques in binary class models, multiclass models for Group 1 specific attacks, containing reconnaissance attacks (UNSW-NB15) and PortScan attacks (CIC -IDS2017) and multiclass templates for specific Group 2 attacks, containing DoS attacks (UNSW-NB15) and DoS/DDoS attacks (CIC-IDS2017).
